@@ -6,15 +6,25 @@
 <p align="center">
   <a href="#Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Based-on-Todo-List-App">Based on</a>
+  <a href="#Creator">Creator</a>
 </p>
 
 Preview
 -------
 
-<div >
-<img  src="https://media.giphy.com/media/KbAufjmNmIzYNQVxDF/giphy.gif">
-</div>
+<h2 align="center">
+    Preview Desktop
+    <br>
+    <br>
+    <img  src="assets/img/Cheff.gif">
+</h2>
+
+<h2 align="center">
+    Preview Mobile
+    <br>
+    <br>
+    <img  src="assets/img/Cheff-mobile.gif">
+</h2>
 
 
 
@@ -48,7 +58,10 @@ or use the code below in the CMD and clone the project
 $ https://github.com/GabrielNatan/restauranteCheff.git
 ```
 
-Based on Todo List App
+
+
+Creator
 -----------
 
-https://gabrielnatan.github.io/restauranteCheff/
+
+Created by Gabriel Natan.
