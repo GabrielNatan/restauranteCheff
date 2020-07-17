@@ -45,7 +45,7 @@ https://gabrielnatan.github.io/restauranteCheff/
 
 or use the code below in the CMD and clone the project
 
-$ git clone https://github.com/GabrielNatan/ToDOApp.git
+$ https://github.com/GabrielNatan/restauranteCheff.git
 ```
 
 Based on Todo List App
