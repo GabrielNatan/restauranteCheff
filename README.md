@@ -7,11 +7,11 @@
   <a href="#Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Based-on-Todo-List-App">Based on</a>
-</p
-
+</p>
 
 Preview
 -------
+
 <div >
 <img  src="https://media.giphy.com/media/KbAufjmNmIzYNQVxDF/giphy.gif">
 </div>
